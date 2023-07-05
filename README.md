@@ -5,7 +5,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_
 </div>
 
 ###
-
+<h3 align="left">👩‍💻  Connect With Me </h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/amol-mali-5a9b61231" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -33,7 +33,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_
 - 🔭 I’m working as a DevOps Engineer<br>
 - 📚 I'm currently learning Kubernetes<br>
 - ⚡ Fun fact: Automate and Chill<br>
-- 📫 You can reach me at [amolmali0594@gmail.com](mailto:amolmali0594@gmail.com)
+- ❓ Ask me about DevOps Tools and Practices
 </p>
 
 ###
