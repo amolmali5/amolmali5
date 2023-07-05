@@ -12,7 +12,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_
 
 ###
 
-##About Me </h3>
+## About Me 
 
 ###
 
