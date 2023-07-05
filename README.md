@@ -12,11 +12,6 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=amolmali5.amolmali5&"  />
-</div>
 
 ###
 
@@ -75,6 +70,11 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_
   <img src="https://streak-stats.demolab.com?user=amolmali5&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amolmali5.amolmali5&"  />
+</div>
 
 ###
 
