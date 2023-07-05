@@ -28,7 +28,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_
 
 ###
 
-<p align="left">- 🔭 I’m working as DevOps Engineer<br>- 📚 I'm currently learning Kubernetes<br>- ⚡ Fun fact We guys automate stuff<br>-📫 You can reach me at amolmali0594@gmail.com</p>
+<p align="left">- 🔭 I’m working as DevOps Engineer<br>- 📚 I'm currently learning Kubernetes<br>- ⚡ Fun fact We guys automate stuff<br>-📫 You can reach me at <a href="amolmali0594@gmail.com"amolmali0594@gmail.com</a></p>
 
 ###
 
