@@ -8,7 +8,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_
 
 ###
 
-<h1 align="center">Hi 👋, I'm Amol Mali 🌀 from Pune, India 🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Amol Mali 🌀 from Pune, India</h1>
 
 ###
 
@@ -26,7 +26,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_
 
 ###
 
-<h3 align="left">🛠Tools</h3>
+## 🛠Tools
 
 ###
 
@@ -66,7 +66,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🔥   My Stats :
 
 ###
 
