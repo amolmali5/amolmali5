@@ -27,8 +27,8 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_
 <h3 align="left">👩‍💻  About Me </h3>
 
 ###
-//
-//<p align="left">
+
+ <p align="left">
 - 🔭 I’m working as a DevOps Engineer<br>
 - 📚 I'm currently learning Kubernetes<br>
 - ⚡ Fun fact: We automate stuff<br>
