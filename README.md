@@ -20,7 +20,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi 👋, I'm Amol Mali 🌀 from Pune, India 🇮🇳</h1>
 
 ###
 
@@ -28,7 +28,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_
 
 ###
 
-<p align="left">I'm Amol Mali from Pune, India<br><br>- 🔭 I’m working as DevOps Engineer<br>- 📚 I'm currently learning Kubernetes<br>- ⚡ In my free time I learn new tools and watch lots of movies</p>
+<p align="left">- 🔭 I’m working as DevOps Engineer<br>- 📚 I'm currently learning Kubernetes<br>- ⚡ Fun fact We guys automate stuff<br>-📫 You can reach me at amolmali0594@gmail.com</p>
 
 ###
 
