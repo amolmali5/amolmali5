@@ -19,7 +19,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_
 <p align="left">
   
 - 🔭 I’m working as a DevOps Engineer<br>
-- 📚 I'm currently learning Python, Kafka, park<br>
+- 📚 I'm currently learning Python, Kafka, Spark<br>
 - ⚡ Fun fact: Automate and Chill<br>
 - ❓ Ask me about DevOps Tools and Practices
 </p>
